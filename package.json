@@ -18,7 +18,7 @@
       "dotenv": "^8.2.0",
       "glob": "^8.0.3",
       "tsoa": "^3.5.2",
-      "typescript-ioc": "^3.2.2",
+      "typescript-ioc": "^8.6.8",
       "web3": "^1",
       "web3-utils": "^1.7.3",
       "winston": "^3.3.3",
